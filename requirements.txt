@@ -1,0 +1,2 @@
+opencv-python-headless
+pedalboard==0.5.9
